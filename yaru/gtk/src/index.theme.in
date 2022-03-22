@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=@FlavourThemeName@
+Type=X-GNOME-Metatheme
+Comment=Ubuntu @FlavourThemeName@ theme
+Encoding=UTF-8
+GtkTheme=@FlavourThemeName@
+MetacityTheme=@MetacityThemeName@
+IconTheme=@IconThemeName@
+CursorTheme=@ThemeName@
+CursorSize=24

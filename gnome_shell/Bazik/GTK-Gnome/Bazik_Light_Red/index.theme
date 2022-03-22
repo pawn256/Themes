@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=BaZik Light Red
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=BaZik Light Red
+GtkTheme=Bazik_Light_Red
+MetacityTheme=Bazik_Light_Red
+IconTheme=Mint-Y-Red
+CursorTheme=DMZ-Black
+ButtonLayout=minimize,maximize,close

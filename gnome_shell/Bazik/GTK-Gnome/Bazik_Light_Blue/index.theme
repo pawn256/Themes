@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=BaZik Light Blue
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=BaZik Light Blue
+GtkTheme=Bazik_Light_Blue
+MetacityTheme=Bazik_Light_Blue
+IconTheme=Mint-Y-Blue
+CursorTheme=DMZ-Black
+ButtonLayout=minimize,maximize,close

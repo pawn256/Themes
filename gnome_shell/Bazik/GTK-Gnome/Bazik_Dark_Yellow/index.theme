@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=BaZik Dark Yellow
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=BaZik Dark Yellow
+GtkTheme=Bazik_Dark_Yellow
+MetacityTheme=Bazik_Dark_Yellow
+IconTheme=Mint-Y-Dark-Sand
+CursorTheme=DMZ-Black
+ButtonLayout=minimize,maximize,close

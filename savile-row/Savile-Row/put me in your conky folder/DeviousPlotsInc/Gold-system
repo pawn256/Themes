@@ -1,0 +1,40 @@
+use_xft yes
+xftfont Cantarell:pixelsize=16
+#xftalpha 0.5
+update_interval 2
+total_run_times 0
+own_window yes
+own_window_type desktop
+own_window_transparent yes
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_colour 000000
+own_window_argb_visual yes
+own_window_argb_value 0
+short_units yes
+format_human_readable yes
+double_buffer yes
+draw_shades no
+draw_outline no
+draw_borders no
+draw_graph_borders no
+default_color D5B454
+default_shade_color 263041
+default_outline_color 263041
+alignment top_middle
+gap_x 0
+gap_y 0
+no_buffers yes
+uppercase no
+cpu_avg_samples 2
+net_avg_samples 2
+override_utf8_locale yes
+use_spacer none
+color0 96753B
+color1 D5B454
+color2 96753B
+color3 D5B454
+
+
+minimum_size 1080 35
+TEXT
+${voffset 30}${color0}WIFI${offset 24}${color1}${image $HOME/.conky/DeviousPlotsInc/gold-up.png -p 41,31}${offset 10}${upspeed wlp4s2}${offset 24}${image $HOME/.conky/DeviousPlotsInc/gold-down.png -p 115,35}  ${downspeed wlp4s2}${offset 30}${color0}HD${offset 9}${color1}${fs_free}${color0}  / ${color1}${fs_size}${offset 30}${color0}SWAP${offset 9}${color1}$swap${color0}  / ${color1}$swapmax${offset 30}${color0}RAM${offset 9}${color1}$mem ${color0} / ${color1}$memmax${offset 30}${color0}CPU${offset 9}${color1}${cpu cpu0}%${color0}${offset 30}KERNEL${offset 9}${color1}$kernel${offset 30}${color0}UPTIME${offset 9}${color1}$uptime_short

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=BaZik Light Magenta
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=BaZik Light Magenta
+GtkTheme=Bazik_Light_Magenta
+MetacityTheme=Bazik_Light_Magenta
+IconTheme=Mint-Y-Pink
+CursorTheme=DMZ-Black
+ButtonLayout=minimize,maximize,close

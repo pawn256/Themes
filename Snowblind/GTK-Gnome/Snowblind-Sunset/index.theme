@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Snowblind Sunset
+Comment=Light Blue GTK Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Snowblind Sunset
+GtkTheme=Snowblind-Sunset
+MetacityTheme=Snowblind-Sunset
+IconTheme=Simply-Blue-Circles
+CursorTheme=DMZ-Black
+ButtonLayout=:minimize,maximize,close

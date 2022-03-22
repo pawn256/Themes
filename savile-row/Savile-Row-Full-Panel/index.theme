@@ -1,0 +1,9 @@
+[X-GNOME-Metatheme]
+Comment=There used to be only one
+Name=Savile-Row-Full-Panel
+Type=X-GNOME-Metatheme
+Encoding=UTF-8
+GtkTheme=Savile-Row-Full-Panel
+IconTheme=Sardi-Ghost-Flexible-Savile-Row
+CursorTheme=Adwaita
+CursorSize=24
